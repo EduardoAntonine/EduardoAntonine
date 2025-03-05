@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EduardoAntonine
 - 👀 I’m interested in low level developing, automation, applied control and machine learning
-- 🌱 I’m currently learning MATLAB, LabView, C, C++ and Python
+- 🌱 I’m currently learning MATLAB, LabView, C, C++, C# and Python
 - 💞️ I’m looking to collaborate on answering questions and projects involving control of machinery
 - 📫 How to reach me: email me at eduardopantonine@outlook.com
 
